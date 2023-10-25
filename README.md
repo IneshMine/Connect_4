@@ -2,7 +2,8 @@
 feel free to do download and make any changes, make sure to send the output back to me
 <html>
   <head>
-  <body><button onclick = "lets_go"></body>
+  <body><button onclick = "lets_go()"></body>
+  <h1></h1>
     
   function(lets_go)
   {
